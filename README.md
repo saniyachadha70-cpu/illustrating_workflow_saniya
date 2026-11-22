@@ -1,10 +1,3 @@
----
-
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 ## **Comparative Analysis of Transposable Elements in Trichinella spiralis and T8**
 
 **Overview**: This project investigates patterns of retrotransposon insertions and deletions in Trichinella spiralis and the African Trichinella T8 genotype. By comparing transposable element (TE) composition and activity between these closely related parasitic nematodes, the study explores whether TE dynamics may contribute to differences in host adaptation
